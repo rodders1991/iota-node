@@ -2,3 +2,5 @@ conf/neighbors
 .idea/
 *.iml
 config.sh
+# Ignore iri data and config
+iri/
